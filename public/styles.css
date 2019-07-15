@@ -1,0 +1,37 @@
+.pistacho-container {
+    max-width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.pistacho-container .pistacho-slider {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.pistacho-container .button {
+    color: #fff!important;
+    background-color: #000!important;
+    position: absolute;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    transform: translate(0%, -50%);
+}
+
+.pistacho-container .button.left {
+    top: 50%;
+    left: 0%;
+}
+
+.pistacho-container .button.right {
+    top: 50%;
+    right: 0%;
+}
