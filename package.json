@@ -5,7 +5,7 @@
     "author": "Aradiquez 🍜 - Esteban Cordero",
     "license": "ISC",
     "dependencies": {
-        "angular": "^1.5.7",
+        "angular": "^1.8.0",
         "gulp": "^3.9.0",
         "gulp-angular-templatecache": "^1.8.0",
         "gulp-bro": "^1.0.3",
